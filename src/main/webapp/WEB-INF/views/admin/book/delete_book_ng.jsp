@@ -24,7 +24,7 @@
 		
 			<div class="word">
 			
-				<h3>유은희 delete book 수정</h3>
+				<h3>김은영 delete book 수정</h3>
 				
 			</div>
 		
