@@ -14,7 +14,7 @@
 			</ul>
 		</div>
 		<div class="title">
-			<h3>한국 도서관 - 도서 대여 서비스</h3>
+			<h3>은영 도서관 - 도서 대여 서비스</h3>
 		</div>
 		<div style="text-align:center; margin:30px; display:flex; justify-content:center; align-items:center">
 			<p><span id="wicon"><img src="" /></span></p>
