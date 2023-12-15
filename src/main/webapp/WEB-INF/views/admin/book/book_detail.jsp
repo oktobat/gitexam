@@ -35,7 +35,7 @@ function deleteBook(b_no, b_name, b_thumbnail) {
 		
 		<div id="section_wrap">
 			<div class="word">
-				<h3>BOOK DETAIL</h3>
+				<h3>도서 상세 보기 김은영 수정</h3>
 			</div>
 			
 			<div class="book_detail">
