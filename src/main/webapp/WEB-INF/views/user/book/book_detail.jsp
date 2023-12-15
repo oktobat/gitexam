@@ -28,7 +28,7 @@
 		
 			<div class="word">
 			
-				<h3>BOOK DETAIL</h3>
+				<h3>도서 상세보기</h3>
 				
 			</div>
 			
