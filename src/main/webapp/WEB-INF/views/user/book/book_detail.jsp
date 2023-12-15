@@ -41,7 +41,7 @@
 					<li>
 						<table>
 							<tr>
-								<td>도서명</td>
+								<td>도서명 김 성 희 ㅁ ㅁ ㅁ</td>
 								<td>${bookVo.b_name}</td>
 							</tr>
 							<tr>
