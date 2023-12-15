@@ -9,7 +9,7 @@
 	<div id="footer_wrap">
 		
 		<div class="office_info">
-			Copyright ©OFFICE Corp.All Rights Reserved.
+			Copyright ©OFFICE Corp.All Rights Reserved. 김은영 수정
 		</div>
 		
 	</div>
